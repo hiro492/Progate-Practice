@@ -2,6 +2,9 @@
     background-color: rgb(50, 170, 170);
     height: 210px;
 }
+li{
+    list-style: none;
+}
 .main{
     background-color: yellow;
     height: 1000px;
