@@ -2,8 +2,17 @@
     background-color: rgb(50, 170, 170);
     height: 210px;
 }
+.header-logo{
+    font-size: 40px;
+    float: left;
+    padding: 40px;
+}
 li{
     list-style: none;
+    float: left;
+    padding: 40px;
+    margin: 30px;
+    
 }
 .main{
     background-color: yellow;
